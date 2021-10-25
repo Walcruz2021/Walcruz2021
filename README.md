@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - 🌱 Estoy aprendiendo React Native e Ingles
 - 👯 Estoy buscando colaborar en proyectos donde me permita insertar mis conocimientos.
 
-
+## Lenguajes de Programacion aprendidos 
+![JavaScript](JS.png)
