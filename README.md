@@ -1,4 +1,4 @@
-<!-- <a href="https://prod-discovery.edx-cdn.org/media/programs/card_images/2f377daa-30b3-487f-941c-18503633a4a1-12209ba765df.jpg"><img src="https://prod-discovery.edx-cdn.org/media/programs/card_images/2f377daa-30b3-487f-941c-18503633a4a1-12209ba765df.jpg " title="source: imgur.com" /></a> -->
+
 
 <h1 align="center">Cruz Walter - Full Stack Web Developer</h1>
 
@@ -6,9 +6,7 @@
 
 ## Hello People!!! 👋
 
-Soy un desarrollador web Full-Stack, Argentino, nacido en Mendoza al pie de "Los Andes". Desde chico me apasioné por todo el mundo tech, incursionando desde la electrónica aplicada a la informática. Hoy puedo decir que mis sueños de niño son una realidad.
-Me considero una persona muy pragmática y polifacética, me desenvuelvo con facilidad tanto en el front como en el back. Si estas interesado en mi trabajo puedes hechar un vistazo a mi portafolo clickeando [aquí](https://alevalverde.com/).
-No dudes en 💭 Pregúntame todo lo que quieras.
+Soy un desarrollador web Full-Stack, Argentino, nacido en 
 
 <br/>
 
