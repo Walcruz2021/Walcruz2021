@@ -2,13 +2,13 @@
 
 <h1 align="center">Cruz Walter - Full Stack Web Developer</h1>
 
-<p align="left">
+<p align="justify">
 
 ## Hello People!!! 👋
 
-Soy un desarrollador web Full-Stack, Argentino, nacido en Salta Capital.
+Soy un desarrollador web Full-Stack Argentino, nacido en Salta Capital.
 Pienso q la conquista profesional y la superación personal, son consecuencia del amor por lo que hacemos, de ser un líder o un empleado clave, de saber y conocer como trabajar en equipo, adiestrarse y tener oportunidades de desarrollo en la empresa, lo cual traerá un ascenso y, con ello, un ingreso superior.Cuando hacemos las cosas con amor. Cuando logramos que lo que amamos sea lo que le da sentido a la vida. Entonces todo se vuelve automáticamente simple y sencillo. Es por eso que elegi esta carrera porque la amo y asumo toda consecuencia en mis decisiones
-
+</p>
 <br/>
 
 </p><h2 align="center">Lenguajes de Programacion:</h2>
@@ -16,18 +16,30 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
 <p align="left"> 
  
 <div align="center">
-•Javascript
-•Java
-•C
-•Assembler
+<ul>
+<li>Javascript</li>
+<p></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+
+<li>Java</li>
+<p></p>
+<img src="java.png" alt="java" width="40" height="40" /> </a>
+
+<li>C</li>
+
+<img src="c.png" alt="c" width="40" height="40" /> </a>
+<p></p>
+
+<li>Assembler</li>
+<p></p>
+<img src="asembler.png" alt="assembler" width="40" height="40" /> </a>
+</ul>
 </div>
 
 <div align="center">
 <p>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-<img src="c.png" alt="c" width="40" height="40" /> </a>
-<img src="asembler.png" alt="assembler" width="40" height="40" /> </a>
-<img src="java.png" alt="java" width="40" height="40" /> </a>
+
+
 </p>
 </div>
 
@@ -73,12 +85,14 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
  <!-- <h3 align="center" >My Portfolio</h3> <div align="center" > <a href="" target="_blank"><img align="center" src="https://www.gutxudesign.com/wp-content/uploads/2016/01/portafolio.png" alt="Ale-Valverde" height="200" width="220" /></a>
   -->
 </div>
-<h2 align="center">Contact</h2>
+<h2 align="center">Contacto</h2>
+
+<div align="center" >
 <p>
     <a href=https://www.linkedin.com/in/walter-cruz-132123221/>
       <img align="center" src="https://i.imgur.com/pSEI8t9.png" height="50" width="50" />
     </a>
-    <a href="https://www.instagram.com/">
-      <img align="center" src="https://i.imgur.com/7ibmujg.png" height="50" width="50" />
-    </a>  
-<p/>
+
+   <a href><img class="btn-whatsapp margin-top:10px" src="https://clientes.dongee.com/whatsapp.png" width="50" height="50" alt="Whatsapp" onclick="window.location.href='https://wa.me/3876152894?text=Hola!%20Estoy%20interesado%20en%20tu%20servicio'"/></a>
+
+</div>
