@@ -90,7 +90,7 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
 <div align="center" >
  <p>
   <a href=https://walcruz2021.github.io/>
-      <img align="center" src="https://i.imgur.com/JgzjQNVb.jpg" height="50" width="50" />
+      <img align="center" src="https://leadsfac.com/wp-content/uploads/2019/10/portafolio-creativo.jpg" alt="portfolio" height="50" width="50" />
     </a>
   </p>
  
@@ -98,7 +98,9 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
     <a href=https://www.linkedin.com/in/waltercruz1988/>
       <img align="center" src="https://i.imgur.com/pSEI8t9.png" height="50" width="50" />
     </a>
-
-   <a href><img class="btn-whatsapp margin-top:10px" src="https://clientes.dongee.com/whatsapp.png" width="50" height="50" alt="Whatsapp" onclick="window.location.href='https://wa.me/3876152894?text=Hola!%20Estoy%20interesado%20en%20tu%20servicio'"/></a>
-
+<p>
+     <a href="mailto:walcruz1988.21@gmail.com" target="_blank">
+						<img align="center" src="https://i.imgur.com/E111DD3b.jpg" alta="gmail" height="50" width="50" />
+					</a>
+</p>
 </div>
