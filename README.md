@@ -88,8 +88,14 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
 <h2 align="center">Contacto</h2>
 
 <div align="center" >
+ <p>
+  <a href=https://walcruz2021.github.io/>
+      <img align="center" src="https://i.imgur.com/JgzjQNVb.jpg" height="50" width="50" />
+    </a>
+  </p>
+ 
 <p>
-    <a href=https://www.linkedin.com/in/walter-cruz-132123221/>
+    <a href=https://www.linkedin.com/in/waltercruz1988/>
       <img align="center" src="https://i.imgur.com/pSEI8t9.png" height="50" width="50" />
     </a>
 
