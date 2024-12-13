@@ -16,12 +16,8 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
 <p align="left"> 
  
 <div align="center">
-<ul>
-<li>Javascript</li>
-<p></p>
 
-
-<li>JavaScript | TypesScript | Java</li>
+<li>JavaScript | TypesScript | Java </li>
 
 
 <div align="center">
