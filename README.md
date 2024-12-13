@@ -41,7 +41,7 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
   </p>
  
 <p>
-    <a href=https://www.linkedin.com/in/waltercruz1988/>
+    <a href=https://www.linkedin.com/in/walcruz1988//> 
       <img align="center" src="https://i.imgur.com/pSEI8t9.png" height="50" width="50" />
     </a>
 <p>
