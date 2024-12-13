@@ -34,15 +34,9 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
 <h2 align="center">Contacto</h2>
 
 <div align="center" >
- <p>
-  <a href=https://walcruz2021.github.io/>
-      <img align="center" src="https://leadsfac.com/wp-content/uploads/2019/10/portafolio-creativo.jpg" alt="portfolio" height="50" width="50" />
-    </a>
-  </p>
- 
-<p>
+  <p>
     <a href=https://www.linkedin.com/in/walcruz1988//> 
       <img align="center" src="https://i.imgur.com/pSEI8t9.png" height="50" width="50" />
     </a>
-
+ </p>
 </div>
