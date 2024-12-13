@@ -21,27 +21,8 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
 <p></p>
 
 
-<li>Java</li>
-<p></p>
+<li>JavaScript | TypesScript | Java</li>
 
-
-<li>C</li>
-
-
-<p></p>
-
-<li>Assembler</li>
-<p></p>
-
-</ul>
-</div>
-
-<div align="center">
-<p>
-
-
-</p>
-</div>
 
 <div align="center">
 </p><h2 align="center">Tecnologias y Herramientas:</h2><p align="left">
