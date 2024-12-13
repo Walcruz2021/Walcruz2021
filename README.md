@@ -11,7 +11,7 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
 </p>
 <br/>
 
-</p><h2 align="center">Lenguajes de Programacion:</h2>
+</p><h2 align="center">Lenguajes de Programacion</h2>
 
 <p align="left"> 
  
@@ -27,10 +27,6 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
 
 </div>
 
-<div align="center" >
- <!-- <h3 align="center" >My Portfolio</h3> <div align="center" > <a href="" target="_blank"><img align="center" src="https://www.gutxudesign.com/wp-content/uploads/2016/01/portafolio.png" alt="Ale-Valverde" height="200" width="220" /></a>
-  -->
-</div>
 <h2 align="center">Contacto</h2>
 
 <div align="center" >
