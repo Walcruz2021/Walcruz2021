@@ -23,18 +23,8 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
 <div align="center">
 </p><h2 align="center">Tecnologias y Herramientas:</h2><p align="left">
 
-•Git
-•React
-•HTML
-•CSS
-•NodeJs 
-•Express
-•Postman
-•PostgreSQL
-•MongoDB
-•Nest
-•Jest
-•GraphQL
+<li>Git | React | Html | CSS | NodeJS | Espress | Postman | PostgresQL | MongoDB | Nest | Jest | GrahQL</li>
+
 </div>
 
 <div align="center" >
