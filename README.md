@@ -19,20 +19,20 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
 <ul>
 <li>Javascript</li>
 <p></p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+
 
 <li>Java</li>
 <p></p>
-<img src="java.png" alt="java" width="40" height="40" /> </a>
+
 
 <li>C</li>
 
-<img src="c.png" alt="c" width="40" height="40" /> </a>
+
 <p></p>
 
 <li>Assembler</li>
 <p></p>
-<img src="asembler.png" alt="assembler" width="40" height="40" /> </a>
+
 </ul>
 </div>
 
