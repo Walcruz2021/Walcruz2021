@@ -25,19 +25,16 @@ Pienso q la conquista profesional y la superación personal, son consecuencia de
 
 •Git
 •React
-•Redux
 •HTML
 •CSS
 •NodeJs 
 •Express
 •Postman
 •PostgreSQL
-•SQLite
-•Sequelize
-•Babel
 •MongoDB
-•Mongoose
-
+•Nest
+•Jest
+•GraphQL
 </div>
 
 <div align="center" >
